@@ -1,2 +1,2 @@
-# ichigo123.github.com
+# ichigo123.github.io
 test github pages
